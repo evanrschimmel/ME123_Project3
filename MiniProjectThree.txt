@@ -1,0 +1,7 @@
+For deliverable 1, the total horizontal distance is 23.981 m
+For deliverable 2, the total horizontal distance is  0.239 m
+For deliverable 3, the total horizontal distance is 24.202 m
+For deliverable 4, the stone skips  9 times and last enters the water at 44.79 m
+
+For deliverable 5, Ideal Parameters |--> Theta: 10.00 deg; Alpha: 10.00 deg; y0: 0.010 m
+For deliverable 5, Predicted Results |--> Horizontal distance: 56.61 m; No. of skips: 22
